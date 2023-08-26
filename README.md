@@ -125,7 +125,11 @@ nvim example.c
 5. Now write a code that print Hello, World! for example Then go to ur normal mode withing nvim using ur ```<esc>``` key then ```<space> <b> <e>``` to activate Betty_checker et Voila :blush:
 Rememeber this is how you will always check for betty errors by using ```<esc>``` to go to normal mode then ```<space> <b> <e>```.
 
-🤝 If you have a preconfiguration for ur neovim you should be enough familiar with nvim so all what you have to do is to place the lines inside init.lua to ur init.lua and add the file lua/betty_checker.lua to ur plugins and thats it.
+If you have a preconfiguration for ur neovim you should be enough familiar with nvim so all what you have to do is to place the lines inside init.lua to ur init.lua and add the file lua/betty_checker.lua to ur plugins and thats it.
+
+## 🤝 For vscode users u can refer to this [repo](https://github.com/moufidayoub11/betty-extension) also created by an Alx student [Ayoub Moufid](https://github.com/moufidayoub11):
+
+📋 here is a direct link to vscode extention: https://t.co/mOdnjvLt0s 
 
 
 🎉 Thats all for now I hope this little setup well help you in your journey. I will add more features soon for colors and even some keymapping to make ur nvim looks awsome so give this repo a star to save it for latter 😊!
