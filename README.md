@@ -40,7 +40,7 @@
 
 📋 To get started for web_term (for your sandbox), follow these steps:
 
-1. Go to your sandbox, the type:
+1. Go to your sandbox, then type:
 ```
 cd
 ```
