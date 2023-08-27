@@ -2,6 +2,8 @@
 
 🐚 Betty_checker is just a simple way to check in real-time if u are respecting the Betty style and will make easy for you to detect spot the lines where u missed something. 💻
 
+:seedling: Even though its working correctly, it's just a beta test for now we will keep iproving its functionalities, and making it updated. Don't forget to give this repo a star :star: if it helps in ur work. 😊
+
 ## :loudspeaker: READ TILL THE END TO NOT MISS ANYTHING :loudspeaker:
 
 ## Overview 📝
